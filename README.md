@@ -5,6 +5,6 @@ This is the introduction to this project
 ## Purpose
 This section explains the purpose of this project
 ## Deployment
-
+This section details the deployment instructions
 ## How to contribute
 
