@@ -1,2 +1,8 @@
-# scm-ninja.github.io
-Trying out Pages
+# Starter web project
+
+## Introduction
+
+## Purpose
+
+## How to contribute
+
