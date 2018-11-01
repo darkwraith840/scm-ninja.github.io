@@ -1,2 +1,5 @@
 # humanstxt.org/
 # The humans responsible & technology colphon
+
+# Humans & technology seminars
+Organised by XXX
