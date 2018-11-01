@@ -14,3 +14,5 @@ Special instructions in the untracked area
 
 ## How to contribute
 
+### Copyright
+Git training
