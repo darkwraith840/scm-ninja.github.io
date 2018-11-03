@@ -16,5 +16,7 @@ Special instructions in the untracked area
 Adding a line for rebasing example
 More information from myfeature branch.
 
+
+
 ### Copyright
-Git training
+Git training. All rights reserved
