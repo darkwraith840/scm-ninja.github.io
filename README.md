@@ -14,7 +14,7 @@ Special instructions in the untracked area
 
 ## How to contribute
 Adding a line for rebasing example
-
+More information from myfeature branch.
 
 ### Copyright
 Git training
