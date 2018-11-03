@@ -12,3 +12,5 @@ RSPC
 # Humans & technology seminars
 Organised by XXX
 
+# Thanks
+all my friends
