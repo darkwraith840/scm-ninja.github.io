@@ -13,6 +13,8 @@ This section details the deployment instructions
 Special instructions in the untracked area
 
 ## How to contribute
+Adding a line for rebasing example
+
 
 ### Copyright
 Git training
