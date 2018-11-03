@@ -16,4 +16,4 @@ Organised by XXX
 all my friends
 
 # Please review the course
-our contact details are
+our contact details are: test@git.com
